@@ -1,0 +1,679 @@
+[
+  {
+    "codigo": "EVT-2025-001",
+    "nombre": "Evento 1 - Datos",
+    "fecha": "2025-12-25T20:00:00Z",
+    "lugar": "Auditorio B",
+    "categoria": "charla",
+    "invitados": [
+      {
+        "rut": "11.118.512-6",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.098.760-0",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.079.008-4",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.009.876-3",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.059.256-8",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.029.628-9",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.138.264-2",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.148.140-5",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.197.520-0",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.187.644-7",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.019.752-6",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.246.900-5",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.177.768-4",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.207.396-3",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.237.024-2",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.217.272-6",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.227.148-9",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.128.388-9",
+        "estado": "pendiente",
+        "checkin": false
+      }
+    ]
+  },
+  {
+    "codigo": "EVT-2025-002",
+    "nombre": "Evento 2 - Seguridad",
+    "fecha": "2025-12-27T20:00:00Z",
+    "lugar": "Auditorio A",
+    "categoria": "charla",
+    "invitados": [
+      {
+        "rut": "11.158.016-8",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.187.644-7",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.059.256-8",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.088.884-7",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.098.760-0",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.009.876-3",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.049.380-5",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.138.264-2",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.118.512-6",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.108.636-3",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.029.628-9",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.167.892-1",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.217.272-6",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.207.396-3",
+        "estado": "confirmado",
+        "checkin": false
+      }
+    ]
+  },
+  {
+    "codigo": "EVT-2025-003",
+    "nombre": "Evento 3 - MongoDB",
+    "fecha": "2025-12-27T20:00:00Z",
+    "lugar": "Auditorio B",
+    "categoria": "workshop",
+    "invitados": [
+      {
+        "rut": "11.039.504-2",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.049.380-5",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.237.024-2",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.197.520-0",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.128.388-9",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.069.132-1",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.177.768-4",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.029.628-9",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.019.752-6",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.009.876-3",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.207.396-3",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.108.636-3",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.187.644-7",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.098.760-0",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.158.016-8",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.246.900-5",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.138.264-2",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.217.272-6",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.227.148-9",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.079.008-4",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.059.256-8",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.118.512-6",
+        "estado": "pendiente",
+        "checkin": false
+      }
+    ]
+  },
+  {
+    "codigo": "EVT-2025-004",
+    "nombre": "Evento 4 - DevOps",
+    "fecha": "2025-12-25T19:00:00Z",
+    "lugar": "Auditorio B",
+    "categoria": "meetup",
+    "invitados": [
+      {
+        "rut": "11.079.008-4",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.128.388-9",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.246.900-5",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.069.132-1",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.167.892-1",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.158.016-8",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.118.512-6",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.009.876-3",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.177.768-4",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.088.884-7",
+        "estado": "confirmado",
+        "checkin": false
+      }
+    ]
+  },
+  {
+    "codigo": "EVT-2025-005",
+    "nombre": "Evento 5 - MongoDB",
+    "fecha": "2025-12-30T18:00:00Z",
+    "lugar": "Auditorio A",
+    "categoria": "charla",
+    "invitados": [
+      {
+        "rut": "11.197.520-0",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.246.900-5",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.009.876-3",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.158.016-8",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.207.396-3",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.118.512-6",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.029.628-9",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.039.504-2",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.128.388-9",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.069.132-1",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.079.008-4",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.187.644-7",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.217.272-6",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.108.636-3",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.059.256-8",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.019.752-6",
+        "estado": "confirmado",
+        "checkin": false
+      }
+    ]
+  },
+  {
+    "codigo": "EVT-2025-006",
+    "nombre": "Evento 6 - MongoDB",
+    "fecha": "2025-12-24T20:00:00Z",
+    "lugar": "Auditorio B",
+    "categoria": "charla",
+    "invitados": [
+      {
+        "rut": "11.237.024-2",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.207.396-3",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.039.504-2",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.167.892-1",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.049.380-5",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.138.264-2",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.069.132-1",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.187.644-7",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.009.876-3",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.088.884-7",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.227.148-9",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.246.900-5",
+        "estado": "pendiente",
+        "checkin": false
+      }
+    ]
+  },
+  {
+    "codigo": "EVT-2025-007",
+    "nombre": "Evento 7 - Datos",
+    "fecha": "2025-12-29T18:00:00Z",
+    "lugar": "Sala 204",
+    "categoria": "charla",
+    "invitados": [
+      {
+        "rut": "11.217.272-6",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.009.876-3",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.108.636-3",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.019.752-6",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.148.140-5",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.079.008-4",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.177.768-4",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.158.016-8",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.128.388-9",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.118.512-6",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.049.380-5",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.227.148-9",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.207.396-3",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.197.520-0",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.088.884-7",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.138.264-2",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.237.024-2",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.059.256-8",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.069.132-1",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.039.504-2",
+        "estado": "pendiente",
+        "checkin": false
+      }
+    ]
+  },
+  {
+    "codigo": "EVT-2025-008",
+    "nombre": "Evento 8 - Seguridad",
+    "fecha": "2025-12-28T19:00:00Z",
+    "lugar": "Auditorio B",
+    "categoria": "workshop",
+    "invitados": [
+      {
+        "rut": "11.128.388-9",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.148.140-5",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.108.636-3",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.029.628-9",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.079.008-4",
+        "estado": "pendiente",
+        "checkin": false
+      },
+      {
+        "rut": "11.138.264-2",
+        "estado": "confirmado",
+        "checkin": false
+      },
+      {
+        "rut": "11.217.272-6",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.069.132-1",
+        "estado": "rechazado",
+        "checkin": false
+      },
+      {
+        "rut": "11.098.760-0",
+        "estado": "confirmado",
+        "checkin": false
+      }
+    ]
+  }
+]
