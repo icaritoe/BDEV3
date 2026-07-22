@@ -14,6 +14,8 @@ Configuración: variables MONGO_URI y MONGO_DB_NAME en un archivo .env
 (ver .env.example).
 """
 
+#PUSH TEST
+
 import os
 import re
 import sys
@@ -820,6 +822,7 @@ def menu():
     client, db, col_eventos, col_invitados = conectar_base_datos()
     try:
         while True:
+            print('\033c', end='')
             print("\n" + "=" * 45)
             print("      GESTOR DE EVENTOS E INVITADOS")
             print("=" * 45)
@@ -838,7 +841,7 @@ def menu():
             print("11. Eliminar evento / campo de un evento")
             print("12. Marcar check-in de un invitado")
             print("13. Ver asistentes (check-in) de un evento")
-            print("14. Salir")
+            print("S. Salir")
             print("=" * 45)
 
             opcion = pedir_texto("Seleccione una opción (1-14): ")
@@ -872,7 +875,7 @@ def menu():
                     marcar_checkin(db, col_eventos)
                 elif opcion == "13":
                     ver_asistentes_checkin(db, col_eventos)
-                elif opcion == "14":
+                elif opcion == "s":
                     print("\nSaliendo del sistema...")
                     break
                 else:
@@ -887,7 +890,7 @@ def menu():
                 # informa y el programa sigue funcionando.
                 print(f"\n[ERROR INESPERADO] {e}")
 
-            if opcion != "7":
+            if opcion != "s":
                 waitput()
 
     except KeyboardInterrupt:
